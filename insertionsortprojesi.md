@@ -1,3 +1,5 @@
+# Patika dev linkim
+https://app.patika.dev/Scientistjedi
 # 1. Soru
 [22,27,16,2,18,6] -> Insertion Sort
 
