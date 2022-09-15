@@ -33,6 +33,8 @@ Her diziyi n defa kontrol ettiğimiz için Big-0 Gösterimi
 * Average Case: Aynı şekilde her eleman kontrol edileceğidinden O(n^2) dir.
 * Worst Case: Her eleman tek tek kontrol edilmesi gerektiği için yine O(n^2) dir.
 
+* Dizi sıralandıktan sonra 18 sayısı ortalarda olacağından average case e girer.
+
 # Cevap 2
 * İLK 4 ADIM
 * [3,7,5,8,2,9,4,15,6]
